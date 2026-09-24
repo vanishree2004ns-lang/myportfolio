@@ -30,5 +30,5 @@ https://vanishree2004ns-lang.github.io/myportfolio/
 ## Contact
 - Email: vanishree2004ns@gmail.com
 - GitHub: https://github.com/vanishree2004ns-lang
-- LinkedIn: (Add your LinkedIn profile link here)
+- LinkedIn: (Vanishree N S)
 **Thank you for visiting my portfolio!**
